@@ -4,7 +4,7 @@
 
 - ما هو (prisma)؟
 - لماذا نستخدم  (prisma)
-- استخدم حالات
+- استخدام حالات
 - العمارة النظيفة والطبقات (Clean and layered architecture)
 
 
